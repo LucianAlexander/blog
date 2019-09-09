@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
-date: 2019-09-02T13:29:59+02:00
-draft: true
+date: 2019-09-09T14:59:16+02:00
+draft: false
 tags:
 - Development
 - Go
@@ -9,4 +9,4 @@ tags:
 - Blogging
 ---
 
-Prova
+this is a post

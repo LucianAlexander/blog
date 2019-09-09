@@ -1,8 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://andreavitaletti.github.io/blog/"
 publishDir = "docs"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "hugo-bootstrap"
+theme = "hugo-theme-bootstrap4-blog"
 [taxonomies]
   tag = "tags"
   category = "categories"

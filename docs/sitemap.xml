@@ -3,15 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://andreavitaletti.github.io/blog/tags/blogging/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
+    <loc>https://andreavitaletti.github.io/blog/tags/development/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://andreavitaletti.github.io/blog/tags/fast/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/tags/go/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/posts/my-first-post/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/posts/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/tags/</loc>
+    <lastmod>2019-09-09T14:59:16+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://andreavitaletti.github.io/blog/categories/</loc>
   </url>
   
 </urlset>
