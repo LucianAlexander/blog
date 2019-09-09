@@ -9,4 +9,6 @@ tags:
 - Blogging
 ---
 
-this is a post
+this is a post ![Example image](/blog/img/flower.jpg)
+
+![your image](/blog/posts/images/flower.jpg)
