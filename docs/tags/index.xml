@@ -1,49 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on My New Hugo Site</title>
+    <title>Tags on Hugo Bootstrap v4 Blog</title>
     <link>https://andreavitaletti.github.io/blog/tags/</link>
-    <description>Recent content in Tags on My New Hugo Site</description>
+    <description>Recent content in Tags on Hugo Bootstrap v4 Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 09 Sep 2019 14:59:16 +0200</lastBuildDate>
+    <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://andreavitaletti.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Blogging</title>
-      <link>https://andreavitaletti.github.io/blog/tags/blogging/</link>
-      <pubDate>Mon, 09 Sep 2019 14:59:16 +0200</pubDate>
-      
-      <guid>https://andreavitaletti.github.io/blog/tags/blogging/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Development</title>
+      <title>development</title>
       <link>https://andreavitaletti.github.io/blog/tags/development/</link>
-      <pubDate>Mon, 09 Sep 2019 14:59:16 +0200</pubDate>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://andreavitaletti.github.io/blog/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>fast</title>
-      <link>https://andreavitaletti.github.io/blog/tags/fast/</link>
-      <pubDate>Mon, 09 Sep 2019 14:59:16 +0200</pubDate>
+      <title>go</title>
+      <link>https://andreavitaletti.github.io/blog/tags/go/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://andreavitaletti.github.io/blog/tags/fast/</guid>
+      <guid>https://andreavitaletti.github.io/blog/tags/go/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Go</title>
-      <link>https://andreavitaletti.github.io/blog/tags/go/</link>
-      <pubDate>Mon, 09 Sep 2019 14:59:16 +0200</pubDate>
+      <title>golang</title>
+      <link>https://andreavitaletti.github.io/blog/tags/golang/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://andreavitaletti.github.io/blog/tags/go/</guid>
+      <guid>https://andreavitaletti.github.io/blog/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hugo</title>
+      <link>https://andreavitaletti.github.io/blog/tags/hugo/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreavitaletti.github.io/blog/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>https://andreavitaletti.github.io/blog/tags/templates/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreavitaletti.github.io/blog/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>https://andreavitaletti.github.io/blog/tags/themes/</link>
+      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://andreavitaletti.github.io/blog/tags/themes/</guid>
       <description></description>
     </item>
     
